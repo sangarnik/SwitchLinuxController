@@ -1,0 +1,4 @@
+-I/opt/devkitpro/libnx/include/
+-I/opt/devkitpro/devkitA64/aarch64-none-elf/include/
+-I/opt/devkitpro/portlibs/switch/include/
+-Iinclude
